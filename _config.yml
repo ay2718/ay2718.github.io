@@ -1,0 +1,23 @@
+# Setup
+title:                dI/dt
+tagline:             'power electronics and more'
+description:         'A collection of projects loosely focused on power electronics, controls, signal processing, and STM32 MCUs.'
+url:                 https://ay2718.github.io
+baseurl:             ''
+paginate:            5
+permalink:           pretty
+oldsite:             https://ay2718.github.io/projects/
+
+# About/contact
+author:
+  name:              Aaron Yeiser
+  url:               ay2718.github.io
+  email:             ayeiser@mit.edu
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Custom vars
+version:             1.1.0
+google_analytics_id: #UA-XXXX-Y
